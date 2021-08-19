@@ -16,3 +16,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurlan-aliyev&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nord" alt="n"/>
 </a>
 </p>
+
+<p align="center">
+<img src="https://metrics.lecoq.io/nurlan-aliyev?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FBaku" alt="n"/>
+</p>
