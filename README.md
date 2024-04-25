@@ -9,9 +9,9 @@
 - 🕸️ Every link that leads to me: [Linktree](https://linktr.ee/nurlan_aliyev13)
 
 
-<p align="center" padding="10px">
+<p align="center">
   <a href="https://github.com/nurlan-aliyev">
-    <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; padding:10px;">
       <div style="margin: 10px;">
         <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n"/>
       </div>
