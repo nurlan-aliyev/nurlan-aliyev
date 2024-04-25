@@ -11,15 +11,15 @@
 
 <p align="center">
   <a href="https://github.com/nurlan-aliyev">
-    <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; padding:10px;">
-      <div style="margin: 10px;">
-        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n"/>
+    <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+      <div style="margin: 10px; padding:10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n"/>
       </div>
-      <div style="margin: 10px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="n"/>
+      <div style="margin: 10px; padding:10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="n"/>
       </div>
-      <div style="margin: 10px;">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n"/>
+      <div style="margin: 10px; padding:10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n"/>
       </div>
     </div>
   </a>
