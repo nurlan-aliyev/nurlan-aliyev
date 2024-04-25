@@ -9,18 +9,19 @@
 - 🕸️ Every link that leads to me: [Linktree](https://linktr.ee/nurlan_aliyev13)
 
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/nurlan-aliyev" style="display: flex; flex-wrap: wrap; justify-content: center;">
-      <div style="flex-grow: 1; margin: 10px; padding: 10px; display: flex; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n"/>
-      </div>
-      <div style="flex-grow: 1; margin: 10px; padding: 10px; display: flex; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="n"/>
-      </div>
-      <div style="flex-grow: 1; margin: 10px; padding: 10px; display: flex; justify-content: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n"/>
-      </div>
+<div style="text-align: center;">
+  <a href="https://github.com/nurlan-aliyev" style="display: inline-block; text-align: center;">
+    <div style="display: inline-block; margin: 10px; padding: 10px; width: calc(33.33% - 20px);">
+      <img src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n"/>
+    </div>
+    <div style="display: inline-block; margin: 10px; padding: 10px; width: calc(33.33% - 20px);">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="n"/>
+    </div>
+    <div style="display: inline-block; margin: 10px; padding: 10px; width: calc(33.33% - 20px);">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n"/>
+    </div>
   </a>
 </div>
+
 
 
