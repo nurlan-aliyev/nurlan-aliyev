@@ -15,10 +15,12 @@
   
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurlan-aliyev&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nord" alt="n"/>
 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n"/>
+
 
 </a>
 </p>
+![nurlan-aliyev's Stats](https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![nurlan-aliyev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false)
 
 
