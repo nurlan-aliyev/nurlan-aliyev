@@ -9,18 +9,15 @@
 - 🕸️ Every link that leads to me: [Linktree](https://linktr.ee/nurlan_aliyev13)
 
 
-<p align="center">
+<p align="center" padding="10px">
 <a href="https://github.com/nurlan-aliyev">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n"/>
   
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurlan-aliyev&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nord" alt="n"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="n"/>
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n"/>
 
 
 </a>
 </p>
-![nurlan-aliyev's Stats](https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&show_icons=true&locale=en&theme=nord&include_all_commits=true&count_private=true)
-
-
 
