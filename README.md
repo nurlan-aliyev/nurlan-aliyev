@@ -9,17 +9,11 @@
 - 🕸️ Every link that leads to me: [Linktree](https://linktr.ee/nurlan_aliyev13)
 
 
-<div style="display: grid; grid-template-columns: repeat(3, calc(20% - 20px)); justify-content: center; gap: 2px;">
-  <a href="https://github.com/nurlan-aliyev" style="display: contents;">
-    <div style="margin: 10px; padding: 10px; width: calc(100% - 20px);">
-      <img src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n" style="width: 100%;"/>
-    </div>
-    <div style="margin: 10px; padding: 10px; width: calc(100% - 20px);">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="n" style="width: 100%;"/>
-    </div>
-    <div style="margin: 10px; padding: 10px; width: calc(100% - 20px);">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n" style="width: 100%;"/>
-    </div>
+<div align="center">
+  <a href="https://github.com/nurlan-aliyev">
+    <img src="https://github-readme-stats.vercel.app/api?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="n" width="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlan-aliyev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10" alt="n" width="200"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurlan-aliyev&theme=vue-dark&hide_border=false" alt="n" width="200"/>
   </a>
 </div>
 
